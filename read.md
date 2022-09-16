@@ -4,8 +4,4 @@
 
  # Geek-git
 
- **Nani ga terukana**
-
- # Nigerundayo!!!
-
- # Kokujin: Yukikaze!
+ # Kokujin: Shippu!
